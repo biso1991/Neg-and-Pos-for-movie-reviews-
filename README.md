@@ -1,1 +1,1 @@
-# spam-or-ham-email-classification-
+# Neg' and 'Pos' sentiments for movie reviews 
